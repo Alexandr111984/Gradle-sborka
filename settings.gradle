@@ -1,0 +1,5 @@
+rootProject.name = 'Gradle-sborka'
+include 'db'
+include 'api'
+include 'service'
+
